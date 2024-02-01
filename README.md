@@ -10,6 +10,6 @@ I'm Aditya Kapur, a passionate individual deeply involved in the realms of Data 
 - 😄 Pronouns: he/him
 
 #### Fun Fact:
-Did you know that I have a knack for details, my OCD helps me to find intersting patterns and delve deeper into data.
+Did you know that I have a knack for details, my OCD helps me to find interesting patterns and delve deeper into data.
 
 Looking forward to connecting with fellow data enthusiasts and developers! 🚀
